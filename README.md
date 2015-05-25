@@ -1,4 +1,4 @@
-# SYFixMerageConflict
+# FixMergeConflict
 解决多人开发冲突,简单实用!
 
 1.使用:直接将fixPbxprojConfict.sh 拷贝到项目根目录下
