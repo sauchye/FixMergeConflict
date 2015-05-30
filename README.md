@@ -5,4 +5,4 @@
 
 2.sh即可
 
-3.感谢知名的iOS开发者:heyuan(https://github.com/heyuan110)
+3.感谢知名的iOS开发者:@[heyuan](https://github.com/heyuan110)
